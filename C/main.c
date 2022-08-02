@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdio.h>
 
 #define NET_INPUT_LAYER_SIZE 4
 #define NET_OUTPUT_LAYER_SIZE 3
